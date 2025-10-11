@@ -14,4 +14,4 @@ aeronje/
 
 # Tech content
 
-You may watch [TC6](https://web.facebook.com/share/v/1F4CDaVxnk/) for more context.
+You may watch [TC6](https://web.facebook.com/share/v/1F4CDaVxnk/) for more context. ```The video is in Filipino language```
